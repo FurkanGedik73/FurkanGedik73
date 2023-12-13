@@ -7,7 +7,7 @@
 
 <b>🔭 I am currently looking for a good chance as a Front-end Developer or Back-end Developer🌱</b><br/><br/>
 <b>🌱 I'm currently learning</b> <br/><br/>
-<b>🥅 Goals for 2024: Developing an application that will make a difference in the world 🌎 I hope I can develop artificial intelligence <br/><br/>
+<b>🥅 Goals for 2024: Developing an application that will make a difference in the world 🌎 I hope I can create an artificial intelligence <br/><br/>
 <b>⚡ Fun fact: I like watching movies and TV series, I usually quote <br/><br/>
 
 
